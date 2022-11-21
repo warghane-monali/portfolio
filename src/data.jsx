@@ -153,6 +153,10 @@ export const skills = [
                 id: 16,
                 lang: 'python',
                 perc: '80%'
+            },{
+                id: 17,
+                lang: 'django',
+                perc: '65%'
             }
         ]
     }, {
