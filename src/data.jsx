@@ -76,7 +76,7 @@ export const collegeinfo = [
         id: 2,
         course: 'HSC',
         college: 'PUNE BOARD',
-        year: '2014-20015'
+        year: '2014-2015'
     },
     {
         id: 3,
